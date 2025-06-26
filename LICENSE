@@ -1,20 +1,7 @@
 
----
-
-## ✅ 2. `.gitignore`
-
 ```gitignore
-# Byte-compiled / cache files
 __pycache__/
 *.py[cod]
-
-# Virtual environment
-venv/
 .env
-
-# Mac / Windows
-.DS_Store
 Thumbs.db
-
-# Logs
 *.log
