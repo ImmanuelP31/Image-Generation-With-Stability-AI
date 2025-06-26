@@ -2,24 +2,16 @@
 __pycache__/
 *.py[cod]
 *.so
-
 venv/
 .env
-
 Thumbs.db
-
-# Logs
 *.log
-
 .vscode/
 .idea/
-
 *.coverage
 *.pytest_cache/
 coverage.xml
-
 *.icc
-
 build/
 dist/
 *.spec
